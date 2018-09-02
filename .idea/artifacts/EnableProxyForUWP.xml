@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="EnableProxyForUWP">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnableProxyForUWP</output-path>
+    <root id="root">
+      <element id="archive" name="EnableProxyForUWP.jar">
+        <element id="module-output" name="EnableProxyForUWP" />
+      </element>
+    </root>
+  </artifact>
+</component>
